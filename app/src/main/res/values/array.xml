@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="De_Het">
+        <item>De</item>
+        <item>Het</item>
+    </string-array>
+
+    <string-array name="Le_La_Les_L">
+        <item>Le</item>
+        <item>La</item>
+        <item>Les</item>
+        <item>L</item>
+    </string-array>
+</resources>
